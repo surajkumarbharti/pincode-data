@@ -1,0 +1,46 @@
+{
+    "restrictedPincodes": [
+      {
+        "pincode": "110001",
+        "state": "Delhi",
+        "restricted": true
+      },
+      {
+        "pincode": "800001",
+        "state": "Bihar",
+        "restricted": true
+      },
+      {
+        "pincode": "400001",
+        "state": "Maharashtra",
+        "restricted": false
+      },
+     
+      {
+        "pincode": "342001",
+        "state": "Rajasthan",
+        "restricted": true
+      },
+      {
+        "pincode": "305001",
+        "state": "Rajasthan",
+        "restricted": false
+      },
+      {
+        "pincode": "313601",
+        "state": "Rajasthan",
+        "restricted": true
+      },
+      {
+        "pincode": "313701",
+        "state": "Rajasthan",
+        "restricted": true
+      },
+      {
+        "pincode": "313038",
+        "state": "Rajasthan",
+        "restricted": true
+      }
+    ]
+  }
+  
